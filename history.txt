@@ -1,0 +1,52 @@
+  mkdir Tpc_Community
+  120  cd Tpc_Community
+  121  mkdir automation_scripts
+  122  cd automation_scripts
+  123  touch deploy.sh
+  124  git init
+  125  git remote add origin https://github.com/Kamo-Lyime/Tpc_Community.git
+  126  git init
+  127  git add .
+  128  git commit -m "Adding automation scripts folder with deploy.sh file"
+  129  cd .
+  130  cd ..
+  131  ls
+  132  cd automation_scripts
+  133  cd deploy.sh
+  134  cd ..
+  135  nano deploy.sh
+  136  mkdir documentation
+  137  cd documentation
+  138  touch style_guide.txt
+  139  nano style_guide.txt
+  140  git init
+  141  git add .
+  142  git commit -m "Adding documentation folder with style_guide.txt file"
+  143  cd ..
+  144  git init
+  145  git remote add origin https://github.com/Kamo-Lyime/Tpc_Community.git
+  146  git add .
+  147  ls
+  148  git rm --cached automation_scripts
+  149  -f
+  150  git -f
+  151  ls
+  152  git clone https://github.com/Kamo-Lyime/tpc-community.git
+  153  nano deploy.sh
+  154  cd tpc-community
+  155  cd ..
+  156  git remote add origin https://github.com/Kamo-Lyime/tpc-community.git
+  157  git remote -v
+  158  git -rm rf
+  159  git -rm
+  160  git rm -f
+  161  git remote remove origin
+  162  git remote -v
+  163  git remote add origin https://github.com/Kamo-Lyime/tpc-community.git
+  164  nano deploy.sh
+  165  nano deploy.sh
+  166  touch history.txt
+  167  nano style_guide.txt
+  168  nano deploy.sh
+  169  nano style_guide.txt
+  170  history
